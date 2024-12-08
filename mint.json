@@ -35,7 +35,7 @@
     {
       "group": "Get Started",
       "pages": [
-        "Welcome to Soph",
+        "soph",
         "quickstart",
         "development"
       ]
