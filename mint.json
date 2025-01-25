@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Soph",
+  "name": "Bridgee",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -35,7 +35,7 @@
     {
       "group": "Get Started",
       "pages": [
-        "soph",
+        "bridgee",
         "quickstart",
         "development"
       ]
@@ -58,6 +58,6 @@
   "footerSocials": {
     "x": "https://x.com/sophtech",
     "github": "https://github.com/sophtech",
-    "linkedin": "https://linkedin.com/company/sophme"
+    "linkedin": "https://linkedin.com/company/bridgeefashion"
   }
 }
